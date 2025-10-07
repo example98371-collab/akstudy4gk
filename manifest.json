@@ -1,6 +1,6 @@
 {
   "name": "Akstudy4gk by Abhi Samrat",
-  "short_name": "AK STUDY 4GK",
+  "short_name": "Akstudy4gk",
   "description": "Study Smart with Akstudy4gk – Daily GK, Tools & Learning Hub.",
   "start_url": "/",
   "scope": "/",
@@ -11,7 +11,7 @@
   "icons": [
     {
       "src": "https://i.ibb.co/dJ3Y6B7y/270728ee712f.png",
-      "sizes": "192x192",
+      "sizes": "200x200",
       "type": "image/png"
     },
     {
