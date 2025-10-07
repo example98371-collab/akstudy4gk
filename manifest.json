@@ -1,49 +1,23 @@
 {
-  "name": "Akstudy4gk - Study, Tools & Updates",
+  "name": "Akstudy4gk",
   "short_name": "Akstudy4gk",
-  "description": "Daily Study Materials, GK Updates & Learning Tools in One App.",
+  "description": "Study Smart with Akstudy4gk – Daily GK, Tools & Learning Hub.",
   "start_url": "/index.html",
   "scope": "/",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
-  "categories": ["education", "learning", "gk", "news"],
-  "dir": "ltr",
-  "lang": "hi-IN",
-  "prefer_related_applications": false,
+  "orientation": "portrait",
   "icons": [
     {
       "src": "https://i.ibb.co/dJ3Y6B7y/270728ee712f.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "https://i.ibb.co/dJ3Y6B7y/270728ee712f.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ],
-  "shortcuts": [
-    {
-      "name": "GK Updates",
-      "short_name": "Updates",
-      "url": "/updates.html",
-      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/1827/1827301.png", "sizes": "96x96" }]
-    },
-    {
-      "name": "Study Material",
-      "short_name": "Study",
-      "url": "/study.html",
-      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/3176/3176366.png", "sizes": "96x96" }]
-    },
-    {
-      "name": "Tools",
-      "short_name": "Tools",
-      "url": "/tools.html",
-      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/1069/1069951.png", "sizes": "96x96" }]
+      "type": "image/png"
     }
   ]
 }
