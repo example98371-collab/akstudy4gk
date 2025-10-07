@@ -1,8 +1,8 @@
 {
-  "name": "Akstudy4gk",
-  "short_name": "Akstudy4gk",
+  "name": "AK STUDY 4GK",
+  "short_name": "AK STUDY 4GK",
   "description": "Study Smart with Akstudy4gk – Daily GK, Tools & Learning Hub.",
-  "start_url": "/index.html",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
