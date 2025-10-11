@@ -5,7 +5,7 @@
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#001f3f",  // PWA me background image directly nahi lag sakta, CSS me set karo
+  "background_color": "#001f3f",  
   "theme_color": "#2563eb",
   "orientation": "portrait",
   "icons": [
