@@ -5,17 +5,17 @@
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#001f3f",
+  "background_color": "#001f3f",  // PWA me background image directly nahi lag sakta, CSS me set karo
   "theme_color": "#2563eb",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-blue-artificial-intelligent-technology-image_35556.jpg",
+      "src": "https://m.media-amazon.com/images/I/51zsQGkrwIL.png",
       "sizes": "200x200",
       "type": "image/png"
     },
     {
-      "src": "https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-blue-artificial-intelligent-technology-image_35556.jpg",
+      "src": "https://m.media-amazon.com/images/I/51zsQGkrwIL.png",
       "sizes": "512x512",
       "type": "image/png"
     }
