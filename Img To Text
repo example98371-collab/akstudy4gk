@@ -1,0 +1,23 @@
+{
+  "name": "Image to Text - Akstudy4gk",
+  "short_name": "Img2Text",
+  "description": "Convert any image into editable text instantly using Akstudy4gk’s smart OCR tool.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#001f3f",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-blue-artificial-intelligent-technology-image_35556.jpg",
+      "sizes": "200x200",
+      "type": "image/png"
+    },
+    {
+      "src": "https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-blue-artificial-intelligent-technology-image_35556.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
