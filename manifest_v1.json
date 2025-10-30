@@ -1,0 +1,23 @@
+{
+  "name": "MediKart by Abhi Samrat",
+  "short_name": "Medikart",
+  "description": "All Medical, Fashion, Hospital, Relegion Item Sale & Adwertisement.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/d4BGJzcR/d08a13da764c.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/d4BGJzcR/d08a13da764c.png",
+      "sizes": "312x312",
+      "type": "image/png"
+    }
+  ]
+}
