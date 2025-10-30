@@ -1,7 +1,7 @@
 {
-  "name": "MediKart by Abhi Samrat",
-  "short_name": "Medikart",
-  "description": "All Medical, Fashion, Hospital, Relegion Item Sale & Adwertisement.",
+  "name": "MadiKart by Abhi Samrat",
+  "short_name": "Madikart",
+  "description": "All Madical, Fashion, Hospital, Relegion Item Sale & Adwertisement.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
