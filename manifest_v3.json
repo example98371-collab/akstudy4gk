@@ -1,6 +1,6 @@
 {
-  "name": "Abhi Whatsapp by Abhi Samrat",
-  "short_name": "Abhi Whatsapp",
+  "name": "Abhi Chat Whatsapp by Abhi Sir Ai",
+  "short_name": "Abhi Chat App",
   "description": "Online Chatting App",
   "start_url": "/",
   "scope": "/",
@@ -10,12 +10,12 @@
   "theme_color": "#128C7E",
   "icons": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904",
+      "src": "https://i.ibb.co/zHVhtKWJ/96267678271a.webp",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904",
+      "src": "https://i.ibb.co/zHVhtKWJ/96267678271a.webp",
       "sizes": "512x512",
       "type": "image/png"
     }
