@@ -1,0 +1,38 @@
+  {
+  "id": "/",
+  "name": "Abhi Sir AI by Abhi Samrat",
+  "short_name": "Abhi AI",
+  "description": "Powered by Abhi Samrat – Your AI Assistant for Chat, Coding, Knowledge, and Productivity.",
+  "lang": "en",
+  "dir": "ltr",
+
+  "start_url": "/",
+  "scope": "/",
+
+  "display": "standalone",
+  "orientation": "portrait",
+
+  "background_color": "#ffffff",
+  "theme_color": "#013059",
+
+  "categories": [
+    "education",
+    "medical"
+  ],
+
+  "icons": [
+    {
+      "src": "https://i.ibb.co/chZhN2gk/5337a1774eee.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/chZhN2gk/5337a1774eee.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+
+  "prefer_related_applications": false
+}
