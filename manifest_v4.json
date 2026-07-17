@@ -1,1 +1,38 @@
+{
+  "id": "/",
+  "name": "Abhi Mendinfo by Abhi Samrat",
+  "short_name": "Medinfo",
+  "description": "All Disease Details in One Place.",
+  "lang": "en",
+  "dir": "ltr",
 
+  "start_url": "/",
+  "scope": "/",
+
+  "display": "standalone",
+  "orientation": "portrait",
+
+  "background_color": "#ffffff",
+  "theme_color": "#0f9b8e",
+
+  "categories": [
+    "education",
+    "medical"
+  ],
+
+  "icons": [
+    {
+      "src": "https://i.ibb.co/xqt8JW5t/6c07da762d4a.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/xqt8JW5t/6c07da762d4a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+
+  "prefer_related_applications": false
+}
